@@ -4,7 +4,7 @@ This repository contains a practical exercise of Primary Production developed by
 
 Launch the practical by clicking the logo below
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PrimaryProduction/Non_spectral_PP_model/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/.org/v2/gh/Shankar346/satellite-view/main)
 
 ## Contents
 
